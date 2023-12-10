@@ -1,0 +1,6 @@
+# ninja log v5
+1	112	7237893466089851	CMakeFiles/untitled.dir/main.c.obj	51f43a99b21ccd76
+179	311	7237894558746177	untitled.exe	49c7550de43696f7
+0	144	7237894557166225	CMakeFiles/untitled.dir/src/main.c.obj	c7fa241cb5ce7b43
+14	179	7237894557546108	CMakeFiles/untitled.dir/src/parser.c.obj	a5f9172e39c8360b
+8	156	7237894557286183	CMakeFiles/untitled.dir/src/view.c.obj	52f6b21eaebfeda3
